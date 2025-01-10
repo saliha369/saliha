@@ -1,0 +1,14 @@
+.flex-container{
+display: flex;
+width: 50px;
+height: 400px;
+flex-direction: column;
+flex-wrap: wrap;
+}
+.box{
+    background-color: red;
+    border: 4px  dotted;
+    border-radius: 10px;
+    border-left: 10px;
+
+}
